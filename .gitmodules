@@ -1,0 +1,3 @@
+[submodule "submoduloNuevo"]
+	path = submoduloNuevo
+	url = https://gitlab.com/XaviRodriguez/submodulo.git
